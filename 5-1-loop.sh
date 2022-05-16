@@ -1,7 +1,7 @@
 #! /bin/bash
 
-# -------------------------------------------------------
-# While Loop (terminate when cond becomes false)
+###############################################################
+# While Loop (terminate when condition becomes false)
 number=1
 while (( $number < 10 ))
 do
@@ -9,8 +9,8 @@ do
 	number=$((number+1))
 done
 
-# -------------------------------------------------------
-# Until Loop (terminate when cond becomes true)
+###############################################################
+# Until Loop (terminate when condition becomes true)
 number=1
 until (( $number > 10 ))
 do
@@ -18,7 +18,7 @@ do
 	number=$((number+1))
 done
 
-# -------------------------------------------------------
+###############################################################
 # For Loop
 for i in 1 2 3 4 5
 do

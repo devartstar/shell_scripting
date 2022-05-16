@@ -1,4 +1,4 @@
-## Topic List
+## Topic List (Bash Scripting)
 1. Hello Bash
 2. Redirect to files
 3. Comments
@@ -6,7 +6,7 @@
 5. Loops
 6. Script Input
 7. Script Outputs
-8. Pipes
+8. Pipes - send output from one script to another
 9. String Processing
 10. Numbers & Arithmetic
 11. Declare Commands
