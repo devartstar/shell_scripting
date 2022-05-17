@@ -1,6 +1,6 @@
 #! /bin/bash
 
-# Iterate through each line
+# Iterate through each line and read from terminal
 while read line
 do
 	echo $line
